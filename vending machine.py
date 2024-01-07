@@ -21,9 +21,7 @@ items={
    '1144' : 'Pepsi' , 
    '1155' : 'Barbican' ,
    '1166' : 'Water' ,
-   '1177' : 'Sprite' , 
-
-
+   '1177' : 'Sprite', 
 }
 
 print("MENU OF SnackShop")
