@@ -33,7 +33,7 @@ print("*4. Oreo                        AED 10 ,   *   Code: 4444 ,    *     Stoc
 print("*5. Skittles                    AED 15 ,   *   Code: 5555 ,    *     Stock:30*")
 print("*6. Kitkat                      AED 05 ,   *   Code: 6666 ,    *     Stock:80*")
 print("*7. Doritos                     AED 10 ,   *   Code: 7777 ,    *     Stock:10*")
-print("                           ...MENU OF DRINKS...    ")
+print("                           ...MENU OF DRINKS...                               ")
 print("*8. Mountain Dew                AED 10 ,   *   Code: 8888 ,    *     Stock:10*")
 print("*9. Fanta                       AED 10 ,   *   Code: 9999 ,    *     Stock:20*")
 print("*10. Gatorade                   AED 20 ,   *   Code: 1122 ,    *     Stock:60*")
